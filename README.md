@@ -2,6 +2,11 @@
 
 An aggregation of BATCH, CMD and PowerShell scripts to clean the overly bloated OS that is Windows 10.
 
+---
+Poor Cortana 😢
+![Sad Cortana :(](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d35d5663-25d4-41b5-adb1-48de8466bdb0/d6u2dqf-ff0488a7-87f2-46c1-8364-eda306ec34d7.jpg/v1/fill/w_1600,h_1186,q_75,strp/a_promise_to_keep___tribute_to_cortana_by_raaamen_d6u2dqf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMTg2IiwicGF0aCI6IlwvZlwvZDM1ZDU2NjMtMjVkNC00MWI1LWFkYjEtNDhkZTg0NjZiZGIwXC9kNnUyZHFmLWZmMDQ4OGE3LTg3ZjItNDZjMS04MzY0LWVkYTMwNmVjMzRkNy5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WnazTBU_yC9g-xXESoQ3KpgYMFu0gIsYzm5O9bxWqas)
+> [*A Promise to Keep - Tribute to Cortana*](https://www.deviantart.com/raaamen/art/A-Promise-to-Keep-Tribute-to-Cortana-413296647), by [Raaamen](https://www.deviantart.com/raaamen), © 2013 – 2021, published Nov 13 2013
+---
 
 ## Kill Bloat Processes
 
