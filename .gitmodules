@@ -1,0 +1,3 @@
+[submodule "Debloat-Windows-10"]
+	path = Debloat-Windows-10
+	url = git@github.com:benoit-dubreuil/Debloat-Windows-10.git
