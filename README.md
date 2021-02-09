@@ -9,8 +9,9 @@ In the [kill_bloat_processes](clean_bloat_processes/kill_bloat_processes) direct
 
 ## Debloat Windows 10
 
-A customized version of the [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10). <br/>
-See the forked [README.md](Debloat-Windows-10/README.md)
+A customized version of the [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10) project, by *Alex Hirsch* ([W4RH4WK](https://github.com/W4RH4WK) GitHub user).
+
+See the forked [README.md](Debloat-Windows-10/README.md).
 
 
 ## License
